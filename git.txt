@@ -3,4 +3,5 @@ git push
 git pull
 git commit
 git config
-
+git revert
+git rebase
