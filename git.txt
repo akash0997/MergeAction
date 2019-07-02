@@ -5,3 +5,7 @@ git commit
 git config
 git revert
 git rebase
+git status
+git init
+git branch
+git checkout
